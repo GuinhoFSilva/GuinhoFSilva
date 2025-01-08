@@ -6,6 +6,7 @@
 
 
 - 📈 Estou ajudando no desenvolvimento do projeto [Helpers Solutions 🌡](https://github.com/GustavoVFA-SPTECH/helpers-solutions)
+- 📘 Atualmente, estou aproveitando as férias para estudar Java.
 
 
 ## 🛠 Habilidades
