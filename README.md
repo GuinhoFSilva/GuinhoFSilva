@@ -4,6 +4,7 @@
 - 📈 Ajudei no desenvolvimento do projeto [Helpers Solutions 🌡](https://github.com/GustavoVFA-SPTECH/helpers-solutions)
 - 📘 Atualmente, estou aproveitando as férias para estudar Java e me aprimorar em NodeJS.
 - 💻 Confira meu [projeto individual do primeiro semestre 🦖](https://github.com/GuinhoFSilva/DinoTech)
+- ✨ Dê uma olhada na minha [API que utiliza a API Google Books](https://github.com/GuinhoFSilva/APILibraryManager)
 ---
 
 
