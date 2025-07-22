@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f072bb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Guilherme+Fonseca;Tenho+20+anos;Estudo+Ciência+da+Computação+Em+São+Paulo,+SP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f072bb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Guilherme+Fonseca;Tenho+21+anos;Estudo+Ciência+da+Computação+Em+São+Paulo,+SP)](https://git.io/typing-svg)
 
 
 - 📈 Ajudei no desenvolvimento do projeto [Helpers Solutions 🌡](https://github.com/GustavoVFA-SPTECH/helpers-solutions)
