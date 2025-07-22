@@ -3,8 +3,8 @@
 
 - 📈 Ajudei no desenvolvimento do projeto [Helpers Solutions 🌡](https://github.com/GustavoVFA-SPTECH/helpers-solutions)
 - 📈 Atuei no desenvolvimento da primeira sprint do projeto [TechPix 🚨](https://github.com/ni-teixeira/TechPix)
-- 📈 Atualmente, sou um dos desenvolvedores do projeto acadêmico [StreamLine-ATM 🏧](https://github.com/CaioVisconti/StreamLine-ATM)
-- 📘 Busco me aprimorar em Java, NodeJS e MySQL.
+- 📈 Fui um dos desenvolvedores do projeto acadêmico [StreamLine-ATM 🏧](https://github.com/CaioVisconti/StreamLine-ATM)
+- 📘 Atualmente estou aproveitando as férias para estudar Java e Spring
 - 💻 Confira meu [projeto individual do primeiro semestre 🦖](https://github.com/GuinhoFSilva/DinoTech)
 - ✨ Dê uma olhada na minha [API que utiliza a API Google Books 📚](https://github.com/GuinhoFSilva/APILibraryManager)
 ---
