@@ -1,15 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f072bb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Guilherme+Fonseca;Tenho+21+anos;Estudo+Ciência+da+Computação+Em+São+Paulo,+SP)](https://git.io/typing-svg)
 
 
-- 📈 Ajudei no desenvolvimento do projeto [Helpers Solutions 🌡](https://github.com/GustavoVFA-SPTECH/helpers-solutions)
-- 📈 Atuei no desenvolvimento da primeira sprint do projeto [TechPix 🚨](https://github.com/ni-teixeira/TechPix)
-- 📈 Fui um dos desenvolvedores do projeto acadêmico [StreamLine-ATM 🏧](https://github.com/CaioVisconti/StreamLine-ATM)
-- 📘 Atualmente estou aproveitando as férias para estudar Java e Spring
-- 💻 Confira meu [projeto individual do primeiro semestre 🦖](https://github.com/GuinhoFSilva/DinoTech)
-- ✨ Dê uma olhada na minha [API que utiliza a API Google Books 📚](https://github.com/GuinhoFSilva/APILibraryManager)
----
-
-
 ## 🛠 Habilidades
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=20194a" />
