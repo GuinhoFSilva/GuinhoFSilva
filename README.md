@@ -48,7 +48,7 @@ Ecossistema de microsserviços para estudo de backend e arquitetura de software.
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuinhoFSilva&bg_color=191622&title_color=f072bb&color=ffffff&line=da69ab&point=da69ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuinhoFSilva&custom_title=Guinho's%20Activity&bg_color=000000&color=a5b4fc&line=38bdf8&point=22d3ee&area=true&area_color=1e293b&title_color=38bdf8&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
