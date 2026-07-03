@@ -1,26 +1,52 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f072bb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Guilherme+Fonseca;Tenho+21+anos;Estudo+Ciência+da+Computação+Em+São+Paulo,+SP)](https://git.io/typing-svg)
+## 🎯 Foco atual
+
+- Backend com Java
+- Arquitetura de Software
+- Sistemas Distribuídos
+
+
+## 📚 Atualmente estudando
+
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Software Testing
+- Microservices
+
+
+## 🚀 Projetos
+
+### 🏛 Olympus
+
+Ecossistema de microsserviços para estudo de backend e arquitetura de software.
+
+- 🛡️ [Argos](https://github.com/GuinhoFSilva/Argos) — autenticação e autorização (V1 concluída)
+- 🪽 Hermes — matchmaking (em desenvolvimento)
+
 
 
 ## 🛠 Habilidades
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=20194a" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=20194a" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=20194a" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=20194a" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%20194a" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=20194a" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=20194a" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=20194a" />
+  <img src="https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=Git&logoColor=orange" />
+  <img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=blue" />
+  <img src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%20194a" />
+  <img src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Jdbc-000000?style=for-the-badge&logo=openjdk&logoColor=orange" />
+  <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green" />
+  <img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=green" />
+  <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=jpa&logoColor=green" />
+  <img src="https://img.shields.io/badge/Spring%20Security-000000?style=for-the-badge&logo=spring-security&logoColor=green" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=spring-security&logoColor=green" />
+  <img src="https://img.shields.io/badge/junit-000000?style=for-the-badge&logoColor=green" />
+  <img src="https://img.shields.io/badge/mockito-000000?style=for-the-badge&logoColor=green" />
+  <img src="https://img.shields.io/badge/testcontainers-000000?style=for-the-badge&logo=docker&logoColor=blue" />
+  <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=blue" />
+  <img src="https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=MySQL&logoColor=blue" />
 </div>
 
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guinhofsilva&show_icons=true&theme=omni&locale=pt-br&hide_title=false&layout=compact&hide_border=true" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuinhoFSilva&locale=pt-br&hide_title=false&layout=compact&langs_count=5&theme=omni&hide_border=true" height="180" alt="languages graph"  />
-</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuinhoFSilva&bg_color=191622&title_color=f072bb&color=ffffff&line=da69ab&point=da69ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
