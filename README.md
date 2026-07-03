@@ -10,7 +10,7 @@
 - Clean Architecture
 - Domain-Driven Design (DDD)
 - Software Testing
-- Microservices
+- Microsserviços
 
 
 ## 🚀 Projetos
@@ -20,17 +20,12 @@
 Ecossistema de microsserviços para estudo de backend e arquitetura de software.
 
 - 🛡️ [Argos](https://github.com/GuinhoFSilva/Argos) — autenticação e autorização (V1 concluída)
-- 🪽 Hermes — matchmaking (em desenvolvimento)
+- 🪽 Hermes — serviço de matchmaking (em desenvolvimento)
 
 
 
 ## 🛠 Habilidades
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=Git&logoColor=orange" />
-  <img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=blue" />
-  <img src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%20194a" />
   <img src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=orange" />
   <img src="https://img.shields.io/badge/Jdbc-000000?style=for-the-badge&logo=openjdk&logoColor=orange" />
   <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green" />
@@ -43,6 +38,11 @@ Ecossistema de microsserviços para estudo de backend e arquitetura de software.
   <img src="https://img.shields.io/badge/testcontainers-000000?style=for-the-badge&logo=docker&logoColor=blue" />
   <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=blue" />
   <img src="https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=MySQL&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=Git&logoColor=orange" />
+  <img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=blue" />
+  <img src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%20194a" />
 </div>
 
 
