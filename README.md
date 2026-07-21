@@ -20,7 +20,7 @@
 Ecossistema de microsserviços para estudo de backend e arquitetura de software.
 
 - 🛡️ [Argos](https://github.com/GuinhoFSilva/Argos) — autenticação e autorização (V1 concluída)
-- 🪽 [Hermes](https://github.com/GuinhoFSilva/Hermes) — serviço de matchmaking (em desenvolvimento)
+- 🪽 [Hermes](https://github.com/GuinhoFSilva/Hermes) — serviço de matchmaking (V1 concluída)
 
 
 
